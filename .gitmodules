@@ -1,0 +1,9 @@
+[submodule "OsuBeatmapDownloadLib"]
+	path = OsuBeatmapDownloadLib
+	url = https://github.com/EgorDm/OsuBeatmapDownloadLib.git
+[submodule "osu-database-reader"]
+	path = osu-database-reader
+	url = https://github.com/EgorDm/osu-database-reader.git
+[submodule "TourneyManagerApi"]
+	path = TourneyManagerApi
+	url = https://github.com/otaku-overclocks/TourneyManagerApi.git
